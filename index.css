@@ -11,3 +11,30 @@
 ul {
   list-style: none;
 }
+
+.content {
+  line-height: 15px;
+  margin-left: 150px;
+}
+
+.repo-button { 
+  padding: 10px;
+  margin-bottom: 25px;
+  border-radius: 20px;
+  border: none;
+  background: grey;
+  color: black;
+  
+}
+
+.avatar-img {
+  margin-bottom: 50px;
+  height: 300px;
+  width: 300px;
+}
+
+.repo-card {
+  padding-left: 80px;
+}
+
+
